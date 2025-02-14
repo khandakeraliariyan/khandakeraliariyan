@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Khandaker Ali Ariyan <br>Currently I'm studying Bachelor of Science in Software Engineering<br>I’m interested in Web Development <br>I’m currently learning Full-stack development
+Hi, I'm Khandaker Ali Ariyan <br>Currently I'm studying Bachelor of Science in Software Engineering at Islamic University of Technology<br>I’m interested in Web Development <br>I’m currently learning Full-stack development
 
 
 ## 🌐 Socials:
