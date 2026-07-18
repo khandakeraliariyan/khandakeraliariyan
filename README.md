@@ -1,11 +1,15 @@
 <div align="center">
 
-# Hi there, I'm Khandaker Ali Ariyan 👋
+# Hi everyone, I'm Khandaker Ali Ariyan 👋
 
 ### Backend Developer &nbsp;|&nbsp; AI Enthusiast &nbsp;|&nbsp; Building scalable APIs & intelligent systems
 
 <img src="https://komarev.com/ghpvc/?username=khandakeraliariyan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<a href="https://twitter.com/12204091ariyan"><img src="https://img.shields.io/twitter/follow/12204091ariyan?logo=twitter&style=for-the-badge" alt="Twitter follow" /></a>
+<!-- <a href="https://twitter.com/12204091ariyan"><img src="https://img.shields.io/twitter/follow/12204091ariyan?logo=twitter&style=for-the-badge" alt="Twitter follow" /></a> -->
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=khandakeraliariyan&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -72,13 +76,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=khandakeraliariyan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
 
 ## ✍️ Random Dev Quote
 
