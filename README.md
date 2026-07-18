@@ -7,10 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=khandakeraliariyan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <!-- <a href="https://twitter.com/12204091ariyan"><img src="https://img.shields.io/twitter/follow/12204091ariyan?logo=twitter&style=for-the-badge" alt="Twitter follow" /></a> -->
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=khandakeraliariyan&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-
 </div>
 
 <br/>
@@ -76,6 +72,13 @@
 
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=khandakeraliariyan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ## ✍️ Random Dev Quote
 
@@ -85,14 +88,8 @@
 
 </div>
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khandakeraliariyan/khandakeraliariyan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khandakeraliariyan/khandakeraliariyan/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khandakeraliariyan/khandakeraliariyan/output/github-contribution-grid-snake.svg" />
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/khandakeraliariyan/khandakeraliariyan/snake-output/snake.svg" alt="Snake animation" />
 
 </div>
