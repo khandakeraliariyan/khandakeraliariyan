@@ -76,7 +76,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=khandakeraliariyan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://trophy.benkou.dev/?username=khandakeraliariyan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -88,8 +88,11 @@
 
 </div>
 
+## 📅 Contribution Graph
+
 <div align="center">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/khandakeraliariyan/khandakeraliariyan/snake-output/snake.svg" alt="Snake animation" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=khandakeraliariyan&theme=react-dark&hide_border=false)
 
 </div>
+
