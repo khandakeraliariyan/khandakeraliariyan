@@ -1,6 +1,29 @@
-# 💫 About Me:
-🔭 I’m currently working on **AI-driven products, scalable REST APIs, and modern full-stack web applications.**<br><br>👯 I’m looking to collaborate on **Open Source, AI, Backend Engineering, and SaaS products.**<br><br>🤝 I’m looking for help with **Advanced Machine Learning, MLOps, Kubernetes, and Distributed System Design.**<br><br>🌱 I’m currently learning **LLMs, RAG, AI Agents, PyTorch, FastAPI, Docker, and AWS.**<br><br>💬 Ask me about **Node.js, Express.js, Next.js, React, MongoDB, PostgreSQL, Prisma, REST APIs, Firebase, and System Design.**<br><br>⚡ Fun fact: **I believe the best way to learn is by building real-world products and competing in hackathons.**
+<h1 align="center">Hi 👋, I'm Khandaker Ali Ariyan</h1>
+<h3 align="center">Backend Developer | AI Enthusiast | Building scalable APIs & intelligent systems</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khandakeraliariyan&label=Profile%20views&color=0e75b6&style=flat" alt="khandakeraliariyan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khandakeraliariyan" alt="khandakeraliariyan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/12204091ariyan" target="blank"><img src="https://img.shields.io/twitter/follow/12204091ariyan?logo=twitter&style=for-the-badge" alt="12204091ariyan" /></a> </p>
+
+- 🔭 I’m currently working on **AI-powered Backend Systems, Healthcare AI Applications & Scalable SaaS Platforms**
+
+- 🌱 I’m currently learning **Machine Learning • LLMs • FastAPI • Docker • Kubernetes • AWS • System Design**
+
+- 👯 I’m looking to collaborate on [Open Source , AI & Backend Projects](https://github.com/khandakeraliariyan)
+
+- 🤝 I’m looking for help with [LLMs, RAG Systems & Distributed Backend Architecture](https://github.com/khandakeraliariyan)
+
+- 👨‍💻 All of my projects are available at [https://github.com/khandakeraliariyan](https://github.com/khandakeraliariyan)
+
+- 💬 Ask me about **Node.js • Express.js • MongoDB • PostgreSQL • Prisma • Next.js • REST APIs • Authentication • Clean Architecture**
+
+- 📫 How to reach me **khandakeraliariyan@gmail.com**
+
+- 📄 Know about my experiences [https://yourportfolio.vercel.app/resume](https://yourportfolio.vercel.app/resume)
+
+- ⚡ Fun fact **I enjoy building AI-powered applications and hackathon projects that solve real-world problems at scale.**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khandaker.ali.ariyan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_k_a_ariyan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khandaker-ali-ariyan-261055326/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/12204091Ariyan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khandakeraliariyan@gmail.com) 
