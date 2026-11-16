@@ -5,7 +5,6 @@
 ### Backend Developer &nbsp;|&nbsp; AI Enthusiast &nbsp;|&nbsp; Building scalable APIs & intelligent systems
 
 <img src="https://komarev.com/ghpvc/?username=khandakeraliariyan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<!-- <a href="https://twitter.com/12204091ariyan"><img src="https://img.shields.io/twitter/follow/12204091ariyan?logo=twitter&style=for-the-badge" alt="Twitter follow" /></a> -->
 
 </div>
 
@@ -17,10 +16,10 @@
 - 🌱 Currently learning **Machine Learning • LLMs • FastAPI • Docker • Kubernetes • AWS • System Design**
 - 👯 Looking to collaborate on **Open Source, AI & Backend Projects**
 - 🤝 Looking for help with **LLMs, RAG Systems & Distributed Backend Architecture**
-- 👨‍💻 All of my projects are available at my Github [khandakeraliariyan](https://github.com/khandakeraliariyan)
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/khandakeraliariyan?tab=repositories)
 - 💬 Ask me about **Node.js • Express.js • MongoDB • PostgreSQL • Prisma • Next.js • REST APIs • Authentication • Clean Architecture**
 - 📫 Reach me at **khandakeraliariyan@gmail.com**
-- 📄 Check out my resume [resume](http://khandakeraliariyan.vercel.app/resume.pdf)
+- 📄 Check out my resume [here](https://khandakeraliariyan.vercel.app/resume.pdf)
 - ⚡ Fun fact: **I enjoy building AI-powered applications and hackathon projects that solve real-world problems at scale.**
 
 <br/>
@@ -57,7 +56,7 @@
 
 **DevOps & Hosting**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <br/>
 
@@ -72,27 +71,46 @@
 
 </div>
 
+<br/>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://trophy.benkou.dev/?username=khandakeraliariyan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=khandakeraliariyan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
+
+<br/>
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+<br/>
 
 ## 📅 Contribution Graph
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=khandakeraliariyan&theme=react-dark&hide_border=false)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khandakeraliariyan&theme=react-dark&hide_border=false)
 
 </div>
 
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khandakeraliariyan/khandakeraliariyan/snake-output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khandakeraliariyan/khandakeraliariyan/snake-output/snake.svg" />
+  <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/khandakeraliariyan/khandakeraliariyan/snake-output/snake-dark.svg" />
+</picture>
+
+</div>
